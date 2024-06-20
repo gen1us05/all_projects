@@ -1,0 +1,19 @@
+{
+  "users":
+  [
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "username": "user12",
+      "password": "pass12",
+      "role": 0
+    },
+    {
+      "first_name": "Ali",
+      "last_name": "Valiayev",
+      "username": "user123",
+      "password": "pass123",
+      "role": 1
+    }
+  ]
+}

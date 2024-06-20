@@ -1,0 +1,36 @@
+{
+      "users": [
+            {
+                  "firstname": "ogabek",
+                  "lastname": "obidov",
+                  "username": "ogabek123",
+                  "password": "12345678",
+                  "status": 1,
+                  "balance": 100000
+            },
+            {
+                  "firstname": "sherzod",
+                  "lastname": "shodiyev",
+                  "username": "sher777",
+                  "password": "123456",
+                  "status": 0,
+                  "balance": 9755
+            },
+            {
+                  "firstname": "javlon",
+                  "lastname": "hamidov",
+                  "username": "javlon321",
+                  "password": "654321",
+                  "status": 1,
+                  "balance": 20000
+            },
+            {
+                  "firstname": "umid ",
+                  "lastname": "amonov",
+                  "username": "umid12",
+                  "password": "123456",
+                  "status": 0,
+                  "balance": 10000
+            }
+      ]
+}

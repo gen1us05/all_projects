@@ -1,0 +1,13 @@
+{
+  "course": [
+    {
+      "name": "Python",
+      "description": "Comment",
+      "modules_count": 5,
+      "price": 50,
+      "active_students": 2,
+      "create_date": "2023-12-12",
+      "users": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Filiallar:
+ 1.Chilonzor filiali
+ 2.Xadra filiali
+ 3.Chimboy filiali
+ 4.Fargona filiali

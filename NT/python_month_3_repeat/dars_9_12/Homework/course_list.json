@@ -1,0 +1,27 @@
+{
+  "course":
+  [
+    {
+      "name": "Python",
+      "description": "The best course",
+      "modules_count": 8,
+      "active_students": 20,
+      "create_date": "2023-12-09",
+      "users": ["user123", "ekgrig"]
+    },
+    {
+      "name": "Python",
+      "description": "The best course",
+      "modules_count": 8,
+      "active_students": 20,
+      "create_date": "2023-12-09"
+    },
+    {
+      "name": "Python",
+      "description": "The best course",
+      "modules_count": 8,
+      "active_students": 20,
+      "create_date": "2023-12-09"
+    }
+  ]
+}

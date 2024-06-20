@@ -1,0 +1,38 @@
+1) algo:array: 101-129
+2) FloatingPointError,
+    OverflowError,
+    ZeroDivisionError
+    AttributeError
+    ImportError
+    IndexError
+    KeyError
+    NameError
+    FileNotFoundError
+    FileExistsError
+    TypeError
+    ValueError
+    -KeyboardInterrupt-
+har biri uchun dastur tuzish
+3)
+    1)
+        dars2 papkasidagi fayllarni ularning kengaytmasi bo'yicha alohida alohida keylarga joylang
+        {
+            csv: [email.csv, people.csv ...],
+            txt: [data.txt, name.txt ...]
+            py: [count.py, problems.py, ...]
+            ...
+        }
+    2) dastur ishlagan vaqtda
+        folder:
+        filename:
+        text:
+
+
+        end
+
+        kiritadi
+
+        "end" so'zi kiritilganda folder nomli papka yaratib uni ichida filename nomli
+        fayl yarating va ichida "end" kommandasi kiritilgungacha bo'lgan matnni yozib qo'ying
+
+

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Cola",
+        "count": 30,
+        "price": 4.0
+    },
+    {
+        "name": "Fanta",
+        "count": 24,
+        "price": 4.0
+    },
+    {
+        "name": "Sprite",
+        "count": 20,
+        "price": 4.0
+    },
+    {
+        "name": "Hydrolife",
+        "count": 40,
+        "price": 1.0
+    },
+    {
+        "name": "Barbican",
+        "count": 30,
+        "price": 10.0
+    },
+    {
+        "name": "Pulpy",
+        "count": 20,
+        "price": 7.0
+    },
+    {
+        "name": "Flash",
+        "count": 15,
+        "price": 5.0
+    },
+    {
+        "name": "Redbull",
+        "count": 15,
+        "price": 6.0
+    },
+    {
+        "name": "Fusetea",
+        "count": 25,
+        "price": 4.0
+    },
+    {
+        "name": "Coffee",
+        "count": 20,
+        "price": 10.0
+    },
+    {
+        "name": "Moxito",
+        "count": 40,
+        "price": 20.0
+    }
+]
